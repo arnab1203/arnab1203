@@ -6,6 +6,14 @@ I'm an AI Engineer passionate about designing intelligent systems that bridge th
 
 🛠️Currently based in Kolkata, I focus on building AI models that tackle real-world problems in computer vision and document understanding.
 
+🛠️ Currently based in Kolkata, I focus on building AI models that tackle real-world problems in computer vision and document understanding.
+
+🔭 My current work involves solving computer vision challenges — teaching machines to interpret images and documents in meaningful ways.
+🌱 Along the way, I’m deepening my expertise in deep learning and exploring the evolving field of generative AI.
+👯 I’m always open to collaborating on AI projects, especially those that push boundaries and offer real-world impact.
+
+
+
 <!--
 **arnab1203/arnab1203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
