@@ -6,7 +6,7 @@ I'm an AI Engineer passionate about designing intelligent systems that bridge th
 
 🛠️Currently based in Kolkata, I focus on building AI models that tackle real-world problems in computer vision and document understanding.
 
-🔭 My current work involves solving computer vision challenges — teaching machines to interpret images and documents in meaningful ways.
+🔭 My current work involves solving computer vision challenges — teaching machines to interpret images and documents in meaningful ways.<br>
 🌱 Along the way, I’m deepening my expertise in deep learning and exploring the evolving field of generative AI.<br>
 👯 I’m always open to collaborating on AI projects, especially those that push boundaries and offer real-world impact.
 
