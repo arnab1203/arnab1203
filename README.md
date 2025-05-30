@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm an AI Engineer passionate about designing intelligent systems that bridge the gap between raw data and meaningful action. My work lives at the intersection of deep learning, computer vision, and document intelligence — transforming how machines interpret visuals and text in the real world.
+
+🔍 I enjoy working on practical AI solutions — from understanding scanned documents to building models that “see” and “read” like humans, only faster and at scale.
+
+🛠️Currently based in Kolkata, I focus on building AI models that tackle real-world problems in computer vision and document understanding.
+
 <!--
 **arnab1203/arnab1203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
